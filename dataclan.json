@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "guild": "785518665315385345",
+            "name": "indus33",
+            "createAt": 1607807597078,
+            "roleID": "787426876041330759",
+            "avatar": "",
+            "dscr": "Шальной амереканец засунулу в попу палец",
+            "public": false,
+            "invited": [],
+            "maxmembers": 20,
+            "members": [
+                {
+                    "member": "435836749550190593",
+                    "owner": true
+                },
+                {
+                    "member": "606540089635635201",
+                    "owner": false
+                }
+            ]
+        }
+    ]
+}
